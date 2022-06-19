@@ -54,3 +54,7 @@ docker stop <container ID>
 deployed link
 
 https://ml-regression-app.herokuapp.com/
+
+python setup.py install
+
+-e . -- it is used to install internal pacakges as well i.e. housing
